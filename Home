@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Casa de flores tienda">
+    <meta name="author" content="">
+    <meta name="keywords" content="flores, arreglos, CABA, decoracion">
+
+    <title>Casa de flores - HOME</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="./Casa de flores - HOME_files/bootstrap.min.css" rel="stylesheet">
+    <link href="./Casa de flores - HOME_files/css" rel="stylesheet">
+    <link rel="stylesheet" href="./Casa de flores - HOME_files/style.css">
+
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top navbar_style">
+        <div class="container">
+            <a class="navbar-brand" href=" ">Pedidos +54 9 11 5742-8353</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto navbar_style">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="Casa de flores - HOME.html">HOME
+                            <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Casa de flores - Products.html">PRODUCTS</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Casa de flores - COMPANY.html">COMPANY</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Casa de flores - GALERIA.html">GALERIA</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Casa de flores - CONTACTO.html">CONTACTO</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Contenido -->
+    <div class="container pt-3 body_style">
+        <div class="row mt-5">
+            <div class="col-12 col-md-12 col-lg-4 text-left">
+                <h1 class="mt-5 main_titule">Casa de Flores</h1>
+                <p class="lead">Porque sabemos que cada detalle cuenta, te ayudamos a que ese momento sea especial.
+                </p>
+            </div>
+            <div class="col-12 col-md-12 col-lg-8 ">
+                <img src="./Casa de flores - HOME_files/Ed_1.png" alt="" class="img-fluid">
+            </div>
+        </div>
+
+    </div>
+    <footer class="footer static-bottom footer_style">
+        <div class="container">
+            <div class="row p-5">
+                <div class="col-12 col-md-8 col-md-8 text-left">
+                    <p>Av. Caseros 3039, Piso 2, CP 1264, Parque Patricios, CABA</p>
+                    <p>Copyright© 1999-2022 Casadeflores S.R.L.</p>
+                </div>
+                <div class="col-12 col-md-4 col-lg-4 text-center">
+                    <a href="https://www.facebook.com"><img src="./Casa de flores - HOME_files/facebook.png" alt="FACEBOOK"></a>
+                    <a href="https://www.youtube.com"><img src="./Casa de flores - HOME_files/youtube.png" alt="YOUTUBE"></a>
+                    <a href="https://www.instagram.com/flower_and_decoration/"><img src="./Casa de flores - HOME_files/instagram.png" alt="INSTAGRAM"></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="./Casa de flores - HOME_files/jquery.slim.min.js.descarga"></script>
+    <script src="./Casa de flores - HOME_files/bootstrap.bundle.min.js.descarga"></script>
+
+
+
+
+</body></html>
